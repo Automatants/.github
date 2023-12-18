@@ -1,4 +1,4 @@
-# Automatants: L'association IA de CentraleSupélec ![](/logo_mini.png)
+# Automatants: L'association IA de CentraleSupélec
 
 ![](/logo_transparent_bg.png)
 
@@ -31,3 +31,5 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 2. [Autoencoder](https://sharing.cs-campus.fr/compete/89)
 3. [U-Net](https://sharing.cs-campus.fr/compete/89)
 4. [Text Classifier (Intro NLP)](https://sharing.cs-campus.fr/compete/100)
+
+ ![](/logo_mini.png)
