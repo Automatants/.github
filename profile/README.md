@@ -25,6 +25,14 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 - [Parcours Image](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Image)
 - [Parcours Texte](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Texte)
 
+## Nos Projets
+
+1. [Coloration de Mangas](...)
+2. [RL pour Pong](...)
+3. [Brandubh](...)
+4. [Transfert de Style](...)
+5. [Application dans le Médical](...)
+
 ## Nos Défis
 
 1. [ResNet](https://sharing.cs-campus.fr/compete/90)
