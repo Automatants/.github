@@ -33,7 +33,7 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 4. [Transfert de Style](https://github.com/Automatants/Projet/tree/main/Transfert_de_Style)
 5. [Application dans le Médical](https://github.com/Automatants/Projet/tree/main/Medical)
 
-## [Nos Défis](https://github.com/Automatants/travaux-pratiques)
+## [Nos Défis](https://github.com/Automatants/travaux-pratiques#d%C3%A9fis)
 
 1. [ResNet](https://sharing.cs-campus.fr/compete/90)
 2. [Autoencoder](https://sharing.cs-campus.fr/compete/89)
