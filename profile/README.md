@@ -18,12 +18,15 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 1. [Formation Réseaux de Neurones](https://github.com/Automatants/formations/tree/main/R%C3%A9seaux_de_Neurones)
 2. [Formation CNNs](https://github.com/Automatants/formations/tree/main/R%C3%A9seaux_%C3%A0_convolution)
 3. [Formation GAN](https://github.com/Automatants/formations/tree/main/Introduction_aux_GAN)
+4. [Formation RL](https://github.com/Automatants/formations/tree/main/Apprentissage_par_renforcement)
 
 ## [Nos TPs](https://github.com/Automatants/travaux-pratiques)
 
-- [Parcours Technique](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Technique)
-- [Parcours Image](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Image)
-- [Parcours Texte](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Texte)
+1. [Parcours Technique](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Technique)
+2. [Parcours Image](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Image)
+3. [Parcours Texte](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_Texte)
+4. [Parcours RL](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_RL)
+5. [Parcours ML](https://github.com/Automatants/travaux-pratiques/tree/master/Parcours_ML)
 
 ## [Nos Projets](https://github.com/Automatants/Projet)
 
