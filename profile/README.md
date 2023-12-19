@@ -27,11 +27,11 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 
 ## [Nos Projets](https://github.com/Automatants/Projet)
 
-1. [Coloration de Mangas](...)
-2. [RL pour Pong](...)
-3. [Brandubh](...)
-4. [Transfert de Style](...)
-5. [Application dans le Médical](...)
+1. [Coloration de Mangas](https://github.com/Automatants/Projet/tree/main/Brandubh)
+2. [RL pour Pong](https://github.com/Automatants/Projet/tree/main/Pong_RL)
+3. [Brandubh](https://github.com/Automatants/Projet/tree/main/Colorisation)
+4. [Transfert de Style](https://github.com/Automatants/Projet/tree/main/Transfert_de_Style)
+5. [Application dans le Médical](https://github.com/Automatants/Projet/tree/main/Medical)
 
 ## [Nos Défis](https://github.com/Automatants/travaux-pratiques)
 
