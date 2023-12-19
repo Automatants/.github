@@ -6,10 +6,6 @@ Nous sommes [l'association d'IA de CentraleSupélec](https://automatants.cs-camp
 Nous cherchons à promouvoir la connaissance autour de l'Intelligence Artificielle qui sera un outil clé pour les ingénieurs de demain. 
 Nous proposons des formations, pour apprendre de zéro, et des TPs pour s'entraîner.
 
-#### Retrouvez nous sur les Réseaux Sociaux
-
-[LinkedIn](https://www.linkedin.com/company/automatants) [Instagram](https://www.instagram.com/automatants/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
-
 ## Qui sommes-nous?
 Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir les méthodes et techniques pour créer sa propre IA. Ces formations sont accompagnées de [TPs](https://github.com/Automatants/travaux-pratiques) concrets pour apprendre et monter en compétence.
 
