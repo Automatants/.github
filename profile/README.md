@@ -8,16 +8,16 @@ Nous proposons des formations, pour apprendre de zéro, et des TPs pour s'entra�
 
 #### Retrouvez nous sur les Réseaux Sociaux
 
-[LinkedIn](https://www.linkedin.com/company/automatants) [Instagram]()
+[LinkedIn](https://www.linkedin.com/company/automatants) [Instagram](https://www.instagram.com/automatants/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
 
 ## Qui sommes-nous?
 Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir les méthodes et techniques pour créer sa propre IA. Ces formations sont accompagnées de [TPs](https://github.com/Automatants/travaux-pratiques) concrets pour apprendre et monter en compétence.
 
 ## [Nos Formations](https://github.com/Automatants/formations)
 
-1. [Formation Réseaux de Neurones](...)
-2. [Formation CNNs](...)
-3. [Formation GAN](...)
+1. [Formation Réseaux de Neurones](https://github.com/Automatants/formations/tree/main/R%C3%A9seaux_de_Neurones)
+2. [Formation CNNs](https://github.com/Automatants/formations/tree/main/R%C3%A9seaux_%C3%A0_convolution)
+3. [Formation GAN](https://github.com/Automatants/formations/tree/main/Introduction_aux_GAN)
 
 ## [Nos TPs](https://github.com/Automatants/travaux-pratiques)
 
