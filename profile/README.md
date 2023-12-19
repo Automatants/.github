@@ -26,9 +26,9 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 
 ## [Nos Projets](https://github.com/Automatants/Projet)
 
-1. [Coloration de Mangas](https://github.com/Automatants/Projet/tree/main/Brandubh)
+1. [Coloration de Mangas](https://github.com/Automatants/Projet/tree/main/Colorisation)
 2. [RL pour Pong](https://github.com/Automatants/Projet/tree/main/Pong_RL)
-3. [Brandubh](https://github.com/Automatants/Projet/tree/main/Colorisation)
+3. [Brandubh](https://github.com/Automatants/Projet/tree/main/Brandubh)
 4. [Transfert de Style](https://github.com/Automatants/Projet/tree/main/Transfert_de_Style)
 5. [Application dans le Médical](https://github.com/Automatants/Projet/tree/main/Medical)
 
