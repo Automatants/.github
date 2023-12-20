@@ -41,6 +41,6 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 
 ## [Les Automathons](https://github.com/Automatants/Automathon/tree/main)
 
-1. [Automathon n°1](https://github.com/Automatants/Automathon/tree/main/Automathon%201)
+1. [Automathon 2023](https://github.com/Automatants/Automathon/tree/main/Automathon%201)
 
  ![](/logo_mini.png)
