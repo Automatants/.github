@@ -39,4 +39,8 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 3. [U-Net](https://sharing.cs-campus.fr/compete/89)
 4. [Text Classifier (Intro NLP)](https://sharing.cs-campus.fr/compete/100)
 
+## [Les Automathons](https://github.com/Automatants/Automathon/tree/main)
+
+1. [Automathon n°1](https://github.com/Automatants/Automathon/tree/main/Automathon%201)
+
  ![](/logo_mini.png)
