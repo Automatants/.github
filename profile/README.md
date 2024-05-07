@@ -15,6 +15,7 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 2. [Formation CNNs](https://github.com/Automatants/formations/tree/main/R%C3%A9seaux_%C3%A0_convolution)
 3. [Formation GAN](https://github.com/Automatants/formations/tree/main/Introduction_aux_GAN)
 4. [Formation RL](https://github.com/Automatants/formations/tree/main/Apprentissage_par_renforcement)
+5. [Formation DGX](https://github.com/Automatants/formations/tree/main/DGX)
 
 ## [Nos TPs](https://github.com/Automatants/travaux-pratiques)
 
