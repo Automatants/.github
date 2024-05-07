@@ -42,5 +42,6 @@ Nous réalisons des formations autour de l'IA, pour ceux qui veulent découvrir 
 ## [Les Automathons](https://github.com/Automatants/Automathon/tree/main)
 
 1. [Automathon 2023](https://github.com/Automatants/Automathon/tree/main/Automathon%201)
+2. [Automathon 2024](https://www.kaggle.com/competitions/automathon-2024-deepfake-detection)
 
  ![](/logo_mini.png)
